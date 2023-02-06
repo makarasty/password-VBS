@@ -1,2 +1,2 @@
-# windows10passwordPRANK
-ВСЕ ДЕЛАЕТЕ НА СВОЙ СТРАХ И РИСК, ПАРОЛЬ 1234, МОЖНА ИЗМЕНИТЬ В КОНФИГЕ!
+# windows 10 password PRANK
+password is `1234`you can change it in the **file**
